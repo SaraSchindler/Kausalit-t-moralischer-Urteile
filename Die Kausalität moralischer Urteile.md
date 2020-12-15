@@ -1,5 +1,23 @@
 ---
 title: Die Kausalität moralischer Urteile
+titlepage: true
+toc: true
+lof: true
+toc-own-page: true
+lang: de-CH
+author: Sara Schindler (16-103-152)
+subtitle: |
+        Seminararbeit zum Seminar\
+        **Kausalität im Kopf und in der Welt**\
+        Anzahl Wörter: 6'713 Wörter
+        \vspace{1em}
+        Universität Bern, Phil.-hist.\
+        Dozent\*innen\: Prof. Dr. Vera Hoffmann-Kolss, Prof. Dr. Fred Mast, Prof. Dr. Thomas König
+date: \today
+linkcolor: #663cff
+fontfamily: lato
+fontfamilyoptions:
+    - default
 ---
 
 # Einleitung
