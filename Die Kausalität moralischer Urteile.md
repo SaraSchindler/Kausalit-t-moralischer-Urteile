@@ -3,7 +3,7 @@ title: Die Kausalität moralischer Urteile
 titlepage: true
 toc: true
 lof: true
-toc-own-page: false
+toc-own-page: true
 lang: de-CH
 author: Sara Schindler (16-103-152)
 subtitle: |
@@ -157,5 +157,7 @@ Ein weiterer Punkt, der in dieser Arbeit nur sehr kurz angesprochen wurde, der a
     > A normative moral theory is an attempt to answer the question ‘‘What ought we to do?’’ It is perfectly possible to answer this question by saying: ‘‘Ignore all our ordinary moral judgments, and do what will produce the best consequences.’’ [...] My point is that the model of reflective equilibrium, at least as presented in _A Theory of Justice_, appears to rule out such an answer, because it assumes that our moral intuitions are some kind of data from which we can learn what we ought to do [@singerEthicsIntuitions2005, 346].
 
     Es gibt für Singer keinen Grund anzunehmen, dass unsere Intuitionen uns in die richtige Richtung lenken und es ist daher auch nicht nötig, dass eine normative Theorie erklären kann, warum unsere Intuitionen im Trolley-Problem und im Footbridge-Problem unterschiedlich sind: im einen Fall sind unsere Intuitionen einfach falsch. Singer postuliert, gestützt auf die Studien von Greene et al., dass es keinen moralisch relevanten Unterschied zwischen diesen beiden Fällen gibt und wir daher konsequenterweise auch in beiden Fällen dasselbe Urteil fällen sollten [vgl. @singerEthicsIntuitions2005, 347].
+
+\pagebreak
 
 # Bibliografie
